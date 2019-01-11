@@ -1,0 +1,27 @@
+Tutorial:
+The game is fairly simple. You will be prompted with a text prompt, then multible options on
+different lines and each marked with ">". To select the option, enter the letter in
+parentheses after the ">". For example:
+######
+Do you understand this tutorial?
+>(a)Yes
+>(b)No
+######
+To answer "Yes" to the question, you would enter "a" into the input box. To answer "No", you
+would enter "b".
+
+Sometimes, you will be asked a question, and you must type out the correct awnser instead of
+awnsering a multible choice question. This will be marked with a "<" instead of a ">" and brackets
+"[]" instaed of parentheses "()". For example:
+######
+Do you understand this tutorial?
+<[free response, no caps]>
+######
+To this question, you would likely awnser "yes" or "no". As you may have noticed, notes/directions
+will show up inside the brackets.
+
+Other commands:
+"start" — Restarts the entire game from the beginning
+"save" — Saves progress up untill last checkpoint
+"c-save" — Clears save
+"load" — Loads save

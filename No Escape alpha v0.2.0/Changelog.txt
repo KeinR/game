@@ -1,0 +1,19 @@
+01/01/2019; v0.1
+
+Initial upload.
+
+1/9/2019; v0.1.1
+
+A pretty significant overhaul of how the scripts work; now, instead of being in the same
+file as the GUI, they're in their own separate file, making the code far tidier.
+
+No gameplay changes.
+
+1/10/2019; v0.2.0
+
+Bugfixes; last update was rushed, and pretty buggy.
+
+New save function!
+Here are the commands; they can also be accessed on the "READ ME":
+"save" — Saves progress up untill last checkpoint
+"load" — Loads save
